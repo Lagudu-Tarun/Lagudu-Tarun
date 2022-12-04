@@ -10,7 +10,6 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Lagudu-Tarun&style=flat-square&color=blue" alt=""/>
-
 </div>
 
 <h1>
@@ -18,3 +17,21 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
+</div>
+
+---
+
+###
+
+👨‍💻: About Me :
+
+I am a Data Analyst from India.
+
+- :telescope: Getting insights out of data is something that I really like.
+
+- :zap: In my free time, I solve problems on stratascratch and read articles.
+
+- :mailbox:How to reach me: l.tarun40@gmail.com
