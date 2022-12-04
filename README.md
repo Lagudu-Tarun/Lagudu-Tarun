@@ -28,11 +28,11 @@
 
 👨‍💻: About Me :
 
-I am a Data Analyst from India.
+I am a Data Analyst from India , with work experience of 1.3 Years as a System Engineer.
 
 - :telescope: Getting insights out of data is something that I really like.
 
-- :zap: In my free time, I solve problems on stratascratch and read articles.
+- :zap: I love to solve problems on stratascratch, HackerRank & Datacamp and to read articles.
 
 - :mailbox:How to reach me: l.tarun40@gmail.com
 
@@ -53,4 +53,24 @@ I am a Data Analyst from India.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>
 </div>
+
+
+
+---
+
+###  Profiles :
+
+ <div id="profile">
+    <a href="https://www.datacamp.com/profile/TarunLagudu">
+      <img src="https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1603223608/DC_New_mugdv8.png" alt="DataCamp" width="80" height="40"/>&nbsp;
+    </a>
+    <a href="https://platform.stratascratch.com/user/Lagudu_Tarun">
+      <img src="https://cdn.sanity.io/images/oaglaatp/production/df789fdd700419e65f66b79cd2fb8c6fbf2df864-1200x800.png?w=654&h=436&auto=format" alt="StrataScratch" width="80" height="40"/>&nbsp;
+    </a>
+    <a href="https://www.hackerrank.com/Tarun_Lagudu">
+      <img src="https://osandadeshan.github.io/assets/img/hackerrank.png" alt="HackerRank" width="80" height="40"/>&nbsp;
+    </a>
+
+</div>
+
 
